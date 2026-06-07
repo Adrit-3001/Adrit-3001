@@ -42,5 +42,4 @@ F1 Fantasy optimization using Python trend forecasting, risk evaluation, and bud
 
 [![Email](https://img.shields.io/badge/Email-adrit.panday%40mail.utoronto.ca-blue?style=flat&logo=gmail)](mailto:adrit.panday@mail.utoronto.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrit_Panday-0077B5?style=flat&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Adrit--3001-181717?style=flat&logo=github)](https://github.com/Adrit-3001)
 
