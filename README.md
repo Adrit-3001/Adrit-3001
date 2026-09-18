@@ -1,4 +1,4 @@
-# Hi, I'm Adrit
+# Hi, I'm [![Adrit](https://www.adritpanday.com/)
 
 CS Specialist @ University of Toronto Scarborough (Co-op) · Minor in Astrophysics & Astronomy · Expected Oct 2027
 
