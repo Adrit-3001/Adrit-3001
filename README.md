@@ -9,7 +9,7 @@ I like building things close to the metal — neural nets in C, autonomous robot
 ## What I've Worked On
 
 **ML Software Developer — Sunnybrook Hospital** *(Oct 2024 – May 2025)*  
-Built deep learning preprocessing pipelines in PyTorch for histopathology whole-slide imaging. Cut manual data prep time by 64% and improved training efficiency by 35%.
+Engineered automated Python preprocessing pipelines for histopathology tumor imaging, cutting data preparation time by ~85%, replacing multi-day manual processing with unattended 2–3 hour automated runs requiring only result verification.
 
 ** 1st Place — MTA Datathon** *(Nov 2024)*  
 F1 Fantasy optimization using Python trend forecasting, risk evaluation, and budget modeling across 15+ data points. Won among 50+ participants.
